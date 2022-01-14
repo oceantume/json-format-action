@@ -9,6 +9,10 @@ inputs:
     description: 'The spacing to use when formatting the JSON'
     required: false
     default: 2
+  removeKeys:
+    description: 'A comma-separated list of keys to be removed from the JSON object before formating'
+    required: false
+    default: ''
 runs:
   using: 'node16'
   main: 'index.js'
