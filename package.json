@@ -1,6 +1,6 @@
 {
   "name": "json-format-action",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -16,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/oceantume/json-format-action/issues"
   },
-  "homepage": "https://github.com/oceantume/json-format-action#readme",
-  "dependencies": {
-    "@actions/core": "^1.6.0"
-  }
+  "homepage": "https://github.com/oceantume/json-format-action#readme"
 }
